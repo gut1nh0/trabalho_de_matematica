@@ -1,4 +1,4 @@
-capital=int(input("Insira o valor do seu capital: "))
+capital=int(input("Insira o valor investido: "))
 porcentagem=float(input("Insira o valor do juros em MESES: "))
 periodo=int(input("Insira o período em MESES: "))
 
